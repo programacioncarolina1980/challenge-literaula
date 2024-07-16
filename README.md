@@ -43,13 +43,12 @@ Aquí también tenemos que elegir las dependencias. Las dos dependencias princip
 - Postgres Driver
 - 
 ## Se utiliza Api 
-La API que vamos a consumir se llama Gutendex y pueden encontrarla en el sitio gutendex.com. Es una API que se basa en el proyecto Gutenberg, que es una biblioteca digital con más de 70 mil libros que pueden descargar gratis. La documentación está en inglés, pero pueden usar esta funcionalidad aquí de Google Chrome y cambiarla a español si no les gusta leer en inglés. Y podemos leer aquí toda la documentación. Es importante tener acceso a esta documentación, leerla lo mejor que puedan para saber cómo implementar sus métodos, cómo hacer una lista de libros, los datos del autor, la fecha de su nacimiento, cómo se presentará este dato a ustedes, cómo trabajar con estos datos.
-Se realiza un catálogo de libros: el LiterAlura. Aprenderás a realizar solicitudes a una API de libros, a manipular datos JSON, guardarlos en una base de datos y, finalmente, a filtrar y mostrar los libros y autores de interés.
+La API que vamos a consumir se llama Gutendex y pueden encontrarla en el sitio gutendex.com. Es una API que se basa en el proyecto Gutenberg, que es una biblioteca digital con más de 70 mil libros que pueden descargar gratis. La documentación está en inglés, pero pueden usar esta funcionalidad aquí de Google Chrome y cambiarla a español si no les gusta leer en inglés. 
 
 
 
 
-C
+
 
 
 
