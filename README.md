@@ -1,6 +1,18 @@
 # challenge-literalura
-Con la resolución del desafío LiterAlura, experimentará directamente el papel de un desarrollador back-end en el día a día, creando una aplicación con conexión a una base de datos relacional. Se aplican conceptos avanzados de Java y Spring, como el consumo de APIs externas, la persistencia de datos, entre otros.
+Con la resolución del desafío LiterAlura, se experimentará directamente el papel de un desarrollador back-end en el día a día, creando una aplicación con conexión a una base de datos relacional. Se aplican conceptos avanzados de Java y Spring, como el consumo de APIs externas, la persistencia de datos, entre otros. Se tienen en cuenta las siguientes funcionalidades:
+Configuración del Ambiente Java;
+
+Creación del Proyecto;
+
+Consumo de la API;
+
+Análisis de la Respuesta JSON;
+
+Inserción y consulta en la base de datos;
+
+Exibición de resultados a los usuarios;
 ## Curso de Alura latam- Oracle
+OBJETIVO: Desarrollar un Catálogo de Libros que ofrezca interacción textual (vía consola) con los usuarios, proporcionando al menos 5 opciones de interacción. Los libros se buscarán a través de una API específica. La información sobre la API y las opciones de interacción con el usuario.
 ## Se uiliza lenguaje Java con dependencias
 
 ## Utilicé Trello como métodología de organización para el proyecto de libros.
@@ -8,7 +20,7 @@ Con la resolución del desafío LiterAlura, experimentará directamente el papel
 https://trello.com/b/2EAKQXau/desafio-literaula
 Aquí también tenemos que elegir las dependencias. Las dos dependencias principales con las que vamos a trabajar son Spring Data JPA y PostgreSQL Driver. Estas dependencias son importantes para trabajar con la base de datos. Pero, además de estas dependencias, existen otras que serán importantes y también están en el Trello del desafío.
 
-En la configuración del entorno de desarrollo Java para nuestro desafío de construcción del *LiterAlura* en um proyecto Spring. Se utilizó programas, archivos y versiones:
+## En la configuración del entorno de desarrollo Java para nuestro desafío de construcción del *LiterAlura* en um proyecto Spring. Se utilizó programas, archivos y versiones:
 
 - Java JDK: versión: 17 en adelante -
   [Download the Latest Java LTS Free](https://www.oracle.com/br/java/technologies/downloads/ "‌")
@@ -18,17 +30,28 @@ En la configuración del entorno de desarrollo Java para nuestro desafío de con
 - IDE (Entorno de desenvolvimento integrado) IntelliJ IDEA- opcional -
   [https://www.jetbrains.com/es-es/idea/download/?section=windows](https://www.jetbrains.com/es-es/idea/download/?section=windows "smartCard-inline")
 
-Configuración al crear el proyecto en [Spring Initializr](https://start.spring.io/ "‌"):
+## Configuración al crear el proyecto en [Spring Initializr](https://start.spring.io/ "‌"):
 
 - Java (versión 17 en adelante)
 - Maven (Initializr utiliza la versión 4)
 - Spring Boot (versión 3.2.3)
 - Proyecto en JAR
 
-Dependencias para agregar al crear el proyecto en [Spring Initializr](https://start.spring.io/ "‌"):
+## Dependencias para agregar al crear el proyecto en [Spring Initializr](https://start.spring.io/ "‌"):
 
 - Spring Data JPA
 - Postgres Driver
+- 
 ## Se utiliza Api 
 La API que vamos a consumir se llama Gutendex y pueden encontrarla en el sitio gutendex.com. Es una API que se basa en el proyecto Gutenberg, que es una biblioteca digital con más de 70 mil libros que pueden descargar gratis. La documentación está en inglés, pero pueden usar esta funcionalidad aquí de Google Chrome y cambiarla a español si no les gusta leer en inglés. Y podemos leer aquí toda la documentación. Es importante tener acceso a esta documentación, leerla lo mejor que puedan para saber cómo implementar sus métodos, cómo hacer una lista de libros, los datos del autor, la fecha de su nacimiento, cómo se presentará este dato a ustedes, cómo trabajar con estos datos.
+Se realiza un catálogo de libros: el LiterAlura. Aprenderás a realizar solicitudes a una API de libros, a manipular datos JSON, guardarlos en una base de datos y, finalmente, a filtrar y mostrar los libros y autores de interés.
+
+
+
+
+C
+
+
+
+
 
