@@ -1,4 +1,4 @@
-# challenge-literaula
+# challenge-literalura
 Con la resolución del desafío LiterAlura, experimentará directamente el papel de un desarrollador back-end en el día a día, creando una aplicación con conexión a una base de datos relacional. Se aplican conceptos avanzados de Java y Spring, como el consumo de APIs externas, la persistencia de datos, entre otros.
 ## Curso de Alura latam- Oracle
 ## Se uiliza lenguaje Java con dependencias
